@@ -50,15 +50,6 @@ A curated set of algorithm and data structure solutions across multiple language
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelmirceballos&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmirceballos&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 Email: [miguelmirceballos@gmail.com](mailto:miguelmirceballos@gmail.com)  
