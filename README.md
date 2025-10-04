@@ -1,16 +1,30 @@
-## Hi there 👋
+# Miguel Mir Ceballos — Software Engineer
 
-<!--
-**miguelmirceballos/miguelmirceballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on building scalable backend systems, real-time applications and reliable, secure software. Me gusta resolver problemas con algoritmos sólidos, buenas pruebas y diseño seguro.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+Go · Elixir · Java · Python · JavaScript  
+React · Spring Boot · Django · Express  
+Docker · Git · GitHub Actions · CI/CD
+
+## 🚀 Proyectos destacados
+- **Gunfighter (Multiplayer)** — React · Spring Boot · WebSockets · JWT  
+  Real-time multiplayer board game con autenticación JWT y sincronización por WebSockets. [Ver repo →](https://github.com/miguelmirceballos/gunFighter)
+
+- **Market Simulator** — NetLogo · Python · ML  
+  Simulación basada en agentes para generar series temporales y entrenar modelos que detectan escasez y cambios de precio. [Ver repo →](https://github.com/miguelmirceballos/economicSimulation)
+
+- **LeetCode Solutions** — Python · Java · Elixir · Go · Rust  
+  Colección de soluciones organizadas por problema para demostrar competencia en algoritmos y estructuras de datos. [Ver repo →](https://github.com/miguelmirceballos/Leetcode-Solutions)
+
+> Algunos proyectos son privados en este momento; disponibles bajo petición.
+
+## 📫 Contacto
+- Email: miguelmirceballos@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/miguelmirceballos
+
+---
+
+© Miguel Mir Ceballos · HTML · CSS · JS
